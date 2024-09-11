@@ -249,7 +249,8 @@ return 0;
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/cc3137c8-24e3-4905-9c1f-9f3befd16d66)
+![image](https://github.com/user-attachments/assets/ab16c0ef-8e62-41b8-a715-09a2aa6e2ce7)
+
 ![image](https://github.com/user-attachments/assets/ed1033b9-7ec9-4119-83aa-86b1c5ee0c4f)
 
 
