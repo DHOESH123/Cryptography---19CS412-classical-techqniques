@@ -334,7 +334,8 @@ return 0;
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/a9ebfe58-a866-4034-9365-0b53fd39d8a2)
+![image](https://github.com/user-attachments/assets/8d74207a-5b70-4d3f-9598-1ff2492758db)
+
 
 ## RESULT:
 The program is executed successfully
