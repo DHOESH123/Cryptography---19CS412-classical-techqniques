@@ -517,7 +517,8 @@ return 0;
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/d5574df8-546e-4c2e-bdc6-4a6f898d96a5)
+![image](https://github.com/user-attachments/assets/a6e1fea0-8fa9-441e-8271-d25c98310c63)
+
 
 ## RESULT:
 The program is executed successfully
