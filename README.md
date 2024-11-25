@@ -437,7 +437,8 @@ return 0;
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/cf8ea3ba-098a-4094-be80-f1869ec8dfd0)
+![image](https://github.com/user-attachments/assets/8cebde79-803a-4ef7-94d4-31de7f135599)
+
 
 
 ## RESULT:
